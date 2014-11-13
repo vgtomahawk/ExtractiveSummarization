@@ -2,7 +2,11 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="/host/Users/Pallavi/Desktop/Acads/sem-7/NLP/ExtractiveSummarization/TextSum/pos-model/stanford-postagger.jar"/>
 	<classpathentry kind="lib" path="/host/Users/Pallavi/Desktop/Acads/sem-7/NLP/ExtractiveSummarization/TextSum/ws4j-1.0.1.jar"/>
+=======
+	<classpathentry kind="lib" path="/home/vgtomahawk/7thSem/CS6370/ExtractiveSummarization/TextSum/pos-model/stanford-postagger.jar"/>
+>>>>>>> 3c852121624ed78ce1b8e225d7bf586e757bbcc4
 	<classpathentry kind="output" path="bin"/>
 </classpath>
